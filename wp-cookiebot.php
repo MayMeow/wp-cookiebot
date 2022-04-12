@@ -17,7 +17,7 @@ function maymeow_cookiebot_html_form()
 {
     ?>
 
-    <h2>Custom Plugin Setting Page Heading</h2>
+    <h2>Cookiebot Setting Page Heading</h2>
 
     <form method="post" action="options.php">
     <?php settings_fields('maymeow_cookiebot_options_group'); ?>
